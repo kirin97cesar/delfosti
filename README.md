@@ -39,7 +39,7 @@ Se desarrollo un API el cual proporciona tokens y con ellos podemos buscar el nu
             }
             ```
     ![Consultar token](https://i.postimg.cc/LhFhxtKm/consultar.png)
-## COMANDO  - 
+## COMANDOS 
   El proyecto cuenta con los siguientes comandos de acuerdo a la prueba
   - __npm run compile__ : Usado para compilar typescript a javascript
   - __npm run start-local__ : Usado para desplegar el proyecto local
