@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "target": "ES2017",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outDir": "./built",
+      "esModuleInterop": true,
+      "sourceMap": true
+    },
+    "include": ["src-ts/**/*", "delfosti"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+  }
